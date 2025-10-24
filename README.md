@@ -76,17 +76,23 @@ plot2d3('gnn',r);
 ~~~
 
 ### OUTPUT
-i)Mean of X = 0.25
+1)Mean of X = 0.25
 Mean of Y = 0.25
-ii) Variance of X 0.0375
+2) Variance of X 0.0375
 Variance of Y 0.0375
-Cross Correlation
+3)Cross Correlation
 Type in the reference sequence = [1 2 3 4 5 6 7 8]
 Type in the second sequence = [2 1 3 5 6 3 5 9]
 
 ### OUTPUT WAVEFORM
+<img width="537" height="175" alt="image" src="https://github.com/user-attachments/assets/42019527-5399-4bbf-a058-cb8e8a8cf6f8" />
+<img width="660" height="525" alt="image" src="https://github.com/user-attachments/assets/47b64e51-36f1-4596-a22e-a3aa329c73b5" />
+
 
 ### TABULAR COLUMN
+![WhatsApp Image 2025-10-24 at 19 36 34_bf4ecf1f](https://github.com/user-attachments/assets/11b8c134-bda0-40c1-ac36-9bfbfa264290)
+![WhatsApp Image 2025-10-24 at 19 36 34_e94e7750](https://github.com/user-attachments/assets/7c9c029e-1fa7-45b9-b1ff-21379b1f172e)
+
 
 ### RESULT:
 Thus the mean , variance and cross correlation are executed in Scilab and output is verified
